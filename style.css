@@ -4,3 +4,13 @@
   padding:0;
   box-sizing: border-box;
 }
+
+.scale:hover
+{
+  transform:scale(1.05);
+}
+
+.rotate6:hover
+{
+  transform:rotate(-3deg);
+}
